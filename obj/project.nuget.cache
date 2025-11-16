@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FG7B3I38Kfc=",
+  "success": true,
+  "projectFilePath": "/Users/warrenroberts/Desktop/simple_2D_game/simple_2D_game/simple_2D_game.csproj",
+  "expectedPackageFiles": [
+    "/Users/warrenroberts/.nuget/packages/raylib-cs/7.0.2/raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

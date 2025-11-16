@@ -1,0 +1,6 @@
+/Users/warrenroberts/Desktop/simple_2D_game/simple_2D_game/obj/Debug/net9.0/simple_2D_game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/warrenroberts/Desktop/simple_2D_game/simple_2D_game/obj/Debug/net9.0/simple_2D_game.AssemblyInfoInputs.cache
+/Users/warrenroberts/Desktop/simple_2D_game/simple_2D_game/obj/Debug/net9.0/simple_2D_game.AssemblyInfo.cs
+/Users/warrenroberts/Desktop/simple_2D_game/simple_2D_game/obj/Debug/net9.0/simple_2D_game.csproj.CoreCompileInputs.cache
+/Users/warrenroberts/Desktop/simple_2D_game/simple_2D_game/obj/Debug/net9.0/simple_2D_game.sourcelink.json
+/Users/warrenroberts/Desktop/simple_2D_game/simple_2D_game/obj/Debug/net9.0/simple_2D_game.csproj.AssemblyReference.cache
