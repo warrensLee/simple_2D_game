@@ -1,26 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/warrenroberts/Desktop/simple_2D_game/simple_2D_game/simple_2D_game.csproj": {}
+    "C:\\Users\\wpers\\source\\repos\\warrensLee\\simple_2D_game\\simple_2D_game.csproj": {}
   },
   "projects": {
-    "/Users/warrenroberts/Desktop/simple_2D_game/simple_2D_game/simple_2D_game.csproj": {
+    "C:\\Users\\wpers\\source\\repos\\warrensLee\\simple_2D_game\\simple_2D_game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/warrenroberts/Desktop/simple_2D_game/simple_2D_game/simple_2D_game.csproj",
+        "projectUniqueName": "C:\\Users\\wpers\\source\\repos\\warrensLee\\simple_2D_game\\simple_2D_game.csproj",
         "projectName": "simple_2D_game",
-        "projectPath": "/Users/warrenroberts/Desktop/simple_2D_game/simple_2D_game/simple_2D_game.csproj",
-        "packagesPath": "/Users/warrenroberts/.nuget/packages/",
-        "outputPath": "/Users/warrenroberts/Desktop/simple_2D_game/simple_2D_game/obj/",
+        "projectPath": "C:\\Users\\wpers\\source\\repos\\warrensLee\\simple_2D_game\\simple_2D_game.csproj",
+        "packagesPath": "C:\\Users\\wpers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wpers\\source\\repos\\warrensLee\\simple_2D_game\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/warrenroberts/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\wpers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/opt/homebrew/Cellar/dotnet/9.0.8/libexec/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -66,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.8/libexec/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

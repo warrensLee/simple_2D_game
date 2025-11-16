@@ -4,3 +4,9 @@
 /Users/warrenroberts/Desktop/simple_2D_game/simple_2D_game/obj/Debug/net9.0/simple_2D_game.csproj.CoreCompileInputs.cache
 /Users/warrenroberts/Desktop/simple_2D_game/simple_2D_game/obj/Debug/net9.0/simple_2D_game.sourcelink.json
 /Users/warrenroberts/Desktop/simple_2D_game/simple_2D_game/obj/Debug/net9.0/simple_2D_game.csproj.AssemblyReference.cache
+C:\Users\wpers\source\repos\warrensLee\simple_2D_game\obj\Debug\net9.0\simple_2D_game.csproj.AssemblyReference.cache
+C:\Users\wpers\source\repos\warrensLee\simple_2D_game\obj\Debug\net9.0\simple_2D_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wpers\source\repos\warrensLee\simple_2D_game\obj\Debug\net9.0\simple_2D_game.AssemblyInfoInputs.cache
+C:\Users\wpers\source\repos\warrensLee\simple_2D_game\obj\Debug\net9.0\simple_2D_game.AssemblyInfo.cs
+C:\Users\wpers\source\repos\warrensLee\simple_2D_game\obj\Debug\net9.0\simple_2D_game.csproj.CoreCompileInputs.cache
+C:\Users\wpers\source\repos\warrensLee\simple_2D_game\obj\Debug\net9.0\simple_2D_game.sourcelink.json
