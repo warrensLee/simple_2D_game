@@ -13,7 +13,7 @@ class Program
 
         var state = new GameState();
         var controller = new GameController(state);
-        var renderer = new Rederer(state);
+        var renderer = new Renderer(state);
 
         // now add player to game
         // commented till implemented: state.Entities.Add(new Player{ X = 100, Y = 100});
@@ -29,7 +29,7 @@ class Program
                 e.Update(deltaTime, state);
             }
 
-            RayLib.Draw(state);
+            renderer.Draw();
         }
 
         Raylib.CloseWindow();
